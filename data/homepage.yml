@@ -9,7 +9,7 @@ about:
     We are a team of ace brand strategists & marketers working with startup founders to provide support and create their scalable story.
   button:
     enable: true
-    label: know more
+    label: Read More
     URL: about
 skill:
   enable: true
