@@ -60,10 +60,10 @@ service:
   enable: true
   title: Services
   item:
-  - title: UI Design
+  - title: Creative Services
     icon: ti-palette
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
+    content: Brand Strategy + Search Engine Marketing + Social Media Management +
+      UI/UX Design + Digital Design + Search Engine Optimisation
     highlighted: false
   - title: UX Design
     icon: ti-vector
