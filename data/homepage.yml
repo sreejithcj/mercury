@@ -13,10 +13,10 @@ about:
     URL: about
 skill:
   enable: true
-  title: Skills
+  title: Services
   item:
-  - title: Web Design
-    progress: 90%
+  - title: Creative Services
+    progress: ''
     color: "#fdb157"
   - title: Logo Design
     progress: 60%
