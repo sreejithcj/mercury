@@ -1,0 +1,118 @@
+---
+label: My-Custom
+hide_body: true
+fields:
+- type: text
+  name: baseURL
+  label: baseURL
+- type: text
+  name: languageCode
+  label: languageCode
+- type: text
+  name: summaryLength
+  label: summaryLength
+- type: text
+  name: theme
+  label: theme
+- type: text
+  name: title
+  label: title
+- type: field_group
+  name: params
+  label: params
+  fields:
+  - type: field_group
+    name: plugins
+    label: plugins
+    fields:
+    - type: field_group_list
+      name: css
+      label: css
+      fields:
+      - type: text
+        name: URL
+        label: URL
+    - type: field_group_list
+      name: js
+      label: js
+      fields:
+      - type: text
+        name: URL
+        label: URL
+  - type: text
+    name: home
+    label: home
+  - type: file
+    name: logo
+    label: logo
+  - type: text
+    name: theme_color
+    label: theme_color
+  - type: text
+    name: phone
+    label: phone
+  - type: text
+    name: email
+    label: email
+  - type: text
+    name: address
+    label: address
+  - type: text
+    name: author
+    label: author
+  - type: text
+    name: description
+    label: description
+  - type: text
+    name: google_analitycs_id
+    label: google_analitycs_id
+  - type: text
+    name: copyright
+    label: copyright
+  - type: field_group
+    name: contact
+    label: contact
+    fields:
+    - type: boolean
+      name: enable
+      label: enable
+    - type: text
+      name: form_action
+      label: form_action
+  - type: field_group
+    name: preloader
+    label: preloader
+    fields:
+    - type: boolean
+      name: enable
+      label: enable
+    - type: text
+      name: preloader
+      label: preloader
+  - type: field_group_list
+    name: social
+    label: social
+    fields:
+    - type: text
+      name: URL
+      label: URL
+    - type: text
+      name: icon
+      label: icon
+- type: field_group
+  name: menu
+  label: menu
+  fields:
+  - type: field_group_list
+    name: main
+    label: main
+    fields:
+    - type: text
+      name: URL
+      label: URL
+    - type: text
+      name: name
+      label: name
+    - type: number
+      name: weight
+      label: weight
