@@ -18,8 +18,8 @@ skill:
   - title: Creative Services
     progress: ''
     color: "#fdb157"
-  - title: Logo Design
-    progress: 60%
+  - title: Digital Services
+    progress: ''
     color: "#9473e6"
   - title: After Effects
     progress: 80%
