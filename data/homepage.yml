@@ -70,7 +70,7 @@ service:
     content: App Development + Web Design & Development + Website Maintenance
     highlighted: false
   - title: Investment Platform
-    icon: ti-panel
+    icon: ti-stats-up
     content: Seed & Pre-Seed Investment + Mentorship + Digital Solutions + Product
       & GTM Strategy + MVP Development
     highlighted: false
