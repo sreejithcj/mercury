@@ -12,7 +12,7 @@ about:
     label: Read More
     URL: about
 skill:
-  enable: true
+  enable: false
   title: Services
   item:
   - title: Creative Services
