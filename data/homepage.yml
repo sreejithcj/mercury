@@ -69,10 +69,10 @@ service:
     icon: ti-vector
     content: App Development + Web Design & Development + Website Maintenance
     highlighted: true
-  - title: Interaction Design
+  - title: Investment Platform
     icon: ti-panel
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
+    content: Seed & Pre-Seed Investment + Mentorship + Digital Solutions + Product
+      & GTM Strategy + MVP Development
     highlighted: false
 portfolio:
   enable: true
