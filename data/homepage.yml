@@ -82,30 +82,15 @@ testimonial:
   enable: true
   title: Testimonials
   item:
-  - name: Jesica Gomez
-    image: images/testimonial/client-1.png
-    designation: CEO, Funder
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-      <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-      consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit
-      esse cillum dolore eu fugiat nulla pariatur.
-  - name: Shirley Scot
-    image: images/testimonial/client-1.png
-    designation: CEO, Funder
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-      <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-      consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit
-      esse cillum dolore eu fugiat nulla pariatur.
-  - name: Jessica Julie
-    image: images/testimonial/client-1.png
-    designation: CEO, Funder
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-      <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-      consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit
-      esse cillum dolore eu fugiat nulla pariatur.
+  - name: Debashish Bhattacharjee
+    image: ''
+    designation: Co-Founder & CMO, Pocket52
+    content: The IndusVed team has helped us rethink our content and SEO approach,
+      and has provided 360° solutions with clear, creative and innovative concepts
+      and strategies. Their attention to detail and the ability to adapt to varying
+      audience is commendable. Their expertise and support were vital to Pocket52's
+      revitalised position in the Indian gaming industry, and I would highly recommend
+      them.
 clients_logo_slider:
   enable: true
   item:
