@@ -65,10 +65,9 @@ service:
     content: Brand Strategy + Search Engine Marketing + Social Media Management +
       UI/UX Design + Digital Design + Search Engine Optimisation
     highlighted: false
-  - title: UX Design
+  - title: Digital Services
     icon: ti-vector
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
+    content: App Development + Web Design & Development + Website Maintenance
     highlighted: true
   - title: Interaction Design
     icon: ti-panel
