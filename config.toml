@@ -20,15 +20,16 @@ URL = "contact"
 name = "Contact"
 weight = 5
 [params]
-address = "651 N Broad St Suite 206 Middletown DE 19709 USA"
-author = "Johnathan Smith"
-copyright = "Copyrighht &copy; 2020 a theme by [gethugothemes](https://gethugothemes.com)"
+address = "651 N Broad St Suite 206 Middletown DE 19709, USA"
+author = "Sreejith C J"
+copyright = "Copyright &copy; 2021 IndusVed"
 description = "This is meta description"
-email = "steve.fruits@email.com"
+email = "sreeji.cj@email.com"
 google_analitycs_id = "Your ID"
 home = "Home"
 logo = "images/indus-logo.png"
 phone = "+880 2544 658 256"
+social = []
 theme_color = "#41228e"
 [params.contact]
 enable = true
@@ -50,15 +51,3 @@ URL = "plugins/shuffle/shuffle.min.js"
 [params.preloader]
 enable = true
 preloader = ""
-[[params.social]]
-URL = "#"
-icon = "ti-facebook"
-[[params.social]]
-URL = "#"
-icon = "ti-instagram"
-[[params.social]]
-URL = "#"
-icon = "ti-dribbble"
-[[params.social]]
-URL = "#"
-icon = "ti-twitter-alt"
